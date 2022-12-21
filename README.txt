@@ -1,0 +1,1 @@
+I will be working on creating a Recipe Book using my skills learned from the HTML lessons with The Odin Project. I will be using HTML and Git to update the code as needed.
