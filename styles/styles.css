@@ -24,6 +24,7 @@
 .font
 {
     font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
 }
 
 .list
@@ -31,4 +32,22 @@
     background-color: lightblue;
     color: black;
     outline: 5px;
+}
+
+#stitle
+{
+    background-color: #8204bd;
+    color: white;
+}
+
+.description
+{
+    display: inline-block;
+    border: 2px solid black;
+  outline: #0488bd solid 10px;
+  margin: auto;  
+  padding: 20px;
+  text-align: left;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: larger;
 }
