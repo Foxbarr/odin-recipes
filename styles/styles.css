@@ -13,11 +13,22 @@
 .centre-list
 {
     display: inline-block;
-    text-align: left;
+    border: 2px solid black;
+  outline: #0488bd solid 10px;
+  margin: auto;  
+  padding: 20px;
+  text-align: left;
 
 }
 
 .font
 {
     font-family: 'Courier New', Courier, monospace;
+}
+
+.list
+{
+    background-color: lightblue;
+    color: black;
+    outline: 5px;
 }
